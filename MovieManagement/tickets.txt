@@ -1,0 +1,24 @@
+
+Ticket Details
+
+Ticket Number: 0
+Ticket Price: 100
+Ticket Type: Adult
+Ticket Block: Left Block
+____________________________________________________________________________________
+
+Ticket Details
+
+Ticket Number: 1
+Ticket Price: 100
+Ticket Type: Adult
+Ticket Block: Left Block
+____________________________________________________________________________________
+
+Ticket Details
+
+Ticket Number: 2
+Ticket Price: 100
+Ticket Type: Adult
+Ticket Block: Left Block
+____________________________________________________________________________________
